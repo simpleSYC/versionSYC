@@ -1,0 +1,10 @@
+{   "version":"001235",
+    "rDate":"25/6/2011",
+    "name":"Jokoooasdadhn",
+    "age":31,
+    "pets":[
+        { "animal":"dog", "name":"Fido" },
+        { "animal":"cat", "name":"Felix" },
+        { "animal":"hamster", "name":"Lightning" }
+    ]
+}
